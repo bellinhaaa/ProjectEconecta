@@ -1,18 +1,23 @@
 # ProjectEconecta
-Bem-vindo ao repositório do projeto Horta Inteligente! Este é um aplicativo Java que ajuda a monitorar e gerenciar sua horta de forma eficiente.
+Bem-vindo ao repositório do Projeto Econecta: Horta Inteligente Comunitária! Nosso objetivo é criar uma horta inteligente comunitária que utilize tecnologia para promover a agricultura urbana, a alimentação saudável e a sustentabilidade ambiental. Esta horta será implantada em um espaço comunitário acessível a todos os moradores interessados em participar e colher os benefícios de cultivar seus próprios alimentos.
 
-## Funcionalidades
+## Funcionalidades Principais
 
-- **Dashboard (Página Inicial):** Exibe informações em tempo real sobre suas hortas.
-- **Minhas Hortas (ou Minhas Culturas):** Permite gerenciar as culturas nas hortas, detalhes sobre cada cultura e cuidados específicos.
-- **Comunidade:** Agrupa o Fórum da Comunidade, Cursos e Oficinas, e a Galeria de Fotos.
-  - **Fórum da Comunidade:** Espaço central para interação e discussões entre membros da comunidade.
-  - **Cursos e Oficinas:** Oferece aulas e workshops para melhorar o conhecimento em jardinagem.
-  - **Galeria de Fotos:** Visualização e compartilhamento de imagens do progresso das hortas na comunidade.
-- **Estatísticas e Manutenção:** Inclui informações de estatísticas das hortas e tarefas de manutenção agendadas.
-  - **Estatísticas da Horta:** Permite acessar gráficos e métricas detalhadas sobre o desempenho das hortas.
-  - **Tarefas de Manutenção:** Oferece acesso à agenda de manutenção e notificações relacionadas.
-- **Configurações:** Permite personalizar preferências, acessar ajuda e suporte técnico e visualizar/editar o perfil do usuário.
+### Sistema de Irrigação Inteligente
+
+Desenvolveremos um sistema de irrigação automatizado e inteligente que utiliza sensores para monitorar a umidade do solo e as condições climáticas. Com base nesses dados, o sistema ajustará a quantidade e frequência de irrigação, garantindo o uso eficiente da água e o crescimento saudável das plantas.
+
+### Monitoramento Remoto
+
+Através de um aplicativo, os agricultores urbanos poderão acompanhar o desenvolvimento da horta em tempo real. O monitoramento incluirá informações detalhadas sobre o crescimento das plantas, níveis de umidade do solo, temperatura e status geral da horta.
+
+### Compartilhamento de Conhecimento
+
+Nossa plataforma online permitirá que os participantes compartilhem suas experiências, dicas e conhecimentos sobre agricultura urbana e alimentação saudável. Além disso, ofereceremos um fórum de discussão para tirar dúvidas e promover a interação entre os membros da comunidade, incentivando o aprendizado contínuo.
+
+### Coleta Seletiva de Resíduos Orgânicos
+
+Implementaremos um sistema de coleta seletiva de resíduos orgânicos para a compostagem dos restos de alimentos da comunidade. O composto resultante será utilizado como um fertilizante natural para enriquecer o solo da horta, fechando o ciclo sustentável.
 
 ## Pré-requisitos
 
