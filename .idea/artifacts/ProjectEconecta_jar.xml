@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectEconecta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectEconecta_jar</output-path>
+    <root id="archive" name="ProjectEconecta.jar">
+      <element id="module-output" name="ProjectEconecta" />
+    </root>
+  </artifact>
+</component>
