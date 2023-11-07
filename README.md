@@ -26,4 +26,4 @@ Antes de executar o aplicativo, certifique-se de ter instalado:
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/horta-inteligente.git
+   git clone https://github.com/bellinhaaa/ProjectEconecta.git
